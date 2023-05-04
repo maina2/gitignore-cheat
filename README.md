@@ -1,4 +1,5 @@
 # Patterns for .gitignore files
+# Code squad
 | Pattern | Explanation/Matches | Examples |
 | -------- | -------- | -------- |
 | file.txt | All files with file.txt will be ignored | file.txt |
